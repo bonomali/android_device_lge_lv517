@@ -15,7 +15,7 @@
 #
 
 # Assert
-#TARGET_OTA_ASSERT_DEVICE := Aquaris_U_Plus,lv517
+#TARGET_OTA_ASSERT_DEVICE := lv517
 
 LOCAL_PATH := device/lge/lv517
 
