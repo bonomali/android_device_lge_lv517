@@ -1,3 +1,3 @@
-# android_device_lge_lv517
-Device tree for lineageOS
+This is for the LG K20 Plus MetroPCS
+Device tree for lineageOS/
 Test Device tree
